@@ -6,7 +6,7 @@
     
 }
 .page{
-    width: 1178px;
+    width: 1170px;
     margin: 0 auto;
     background-color: #FFFFFF;
 }
@@ -49,7 +49,7 @@
 .nav-box-left{
 width: 370px;
 display: inline-block;
-margin-right: 30px;
+margin-right: 26px;
 margin-left: 0px;
 }
 .nav-box-left__img{
@@ -82,7 +82,7 @@ margin-left: 0px;
 .nav-box-center{
     width: 370px;
     display: inline-block;
-    margin-right: 30px;
+    margin-right: 26px;
 }
 .nav-box-center__img{
     width: 170px;
