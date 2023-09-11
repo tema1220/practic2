@@ -10,9 +10,7 @@
     margin: 0 auto;
     background-color: #FFFFFF;
 }
-.title{
-    /* display: flex;
-    justify-content: center; */
+.page__title{
     width: 1170px;
     height: 150px;
     color: #000;
@@ -26,13 +24,13 @@
     padding-top: 57px;
     padding-bottom: 57px;
 }
-.line{
+.page__line{
     display: block;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 40px;
 }
-.subtitle{
+.page__subtitle{
     width: 1170px;
     height: 21px;
     color: #86878B;
@@ -52,19 +50,19 @@
     display: inline-block;
 }
 
-.nav-box-left{
+.nav-box{
 width: 370px;
 display: inline-block;
-margin-right: 26px;
-margin-left: 0px;
+margin-right: 8px;
+margin-left: 8px;
 }
-.nav-box-left__img{
+.nav-box__img{
     width: 170px;
     height: 170px;
     display: block;
     margin: 0 auto;
 }
-.nav-box-left__link{
+.nav-box__link{
     color: #000;
     text-align: center;
     font-family: Open Sans;
@@ -81,7 +79,7 @@ margin-left: 0px;
     margin-right: 0px;
     margin-bottom: 8px;
 }
-.nav-box-left__text{
+.nav-box__text{
     color: #000;
     text-align: center;
     font-family: Raleway;
@@ -92,83 +90,6 @@ margin-left: 0px;
     width: 370px;
     height: 105px;
 }
-.nav-box-center{
-    width: 370px;
-    display: inline-block;
-    margin-right: 26px;
-}
-.nav-box-center__img{
-    width: 170px;
-    height: 170px;
-    display: block;
-    margin: 0 auto;
-}
-.nav-box-center__link{
-    color: #000;
-    text-align: center;
-    font-family: Open Sans;
-    font-size: 24px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: normal;
-    text-transform: capitalize;
-    text-decoration: none;
-    width: 369px;
-    height: 100px;
-    display: block;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-bottom: 8px;
-}
-.nav-box-center__text{
-    color: #000;
-    text-align: center;
-    font-family: Raleway;
-    font-size: 18px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
-    width: 370px;
-    height: 105px;
-    margin-left: 0px;
-}
-.nav-box-right{
-    width: 370px;
-    display: inline-block;
-}
-.nav-box-right__img{
-    width: 170px;
-    height: 170px;
-    display: block;
-    margin: 0 auto;
-}
-.nav-box-right__link{
-    color: #000;
-    text-align: center;
-    font-family: Open Sans;
-    font-size: 24px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: normal;
-    text-transform: capitalize;
-    text-decoration: none;
-    width: 369px;
-    height: 100px;
-    display: block;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-bottom: 8px;
-}
-.nav-box-right__text{
-    color: #000;
-    text-align: center;
-    font-family: Raleway;
-    font-size: 18px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
-    color: #000;
-    width: 370px;
-    height: 105px;
-}
+
+
 
